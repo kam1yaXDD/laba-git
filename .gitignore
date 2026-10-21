@@ -1,0 +1,11 @@
+*.exe
+*.dll
+*.so
+*.o
+*.obj
+*.bin
+*.class
+
+*.lib
+*.a
+*.jar
