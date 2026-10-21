@@ -8,3 +8,4 @@ print('commit')
 print('another commit')
 
 print('commit b')
+print('commit b 2.0')
